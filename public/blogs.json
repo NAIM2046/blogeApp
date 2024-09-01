@@ -1,0 +1,67 @@
+[
+  {
+    "id": "001",
+    "cover": "https://i.ibb.co/0qyqsjd/2.png",
+    "title": "The Whispering Shadows",
+    "author": "Emily Rhodes",
+    "author_img": "https://i.ibb.co/SV9Dh3M/girl2.jpg",
+    "postdata": "August 15, 2024",
+    "reading_time": 5,
+    "hashtag": [
+        "beginners" ,
+        "es6"
+    ]
+  },
+  {
+    "id": "002",
+    "cover": "https://i.ibb.co/6bLQFM2/1.jpg",
+    "title": "Journey to the Unknown",
+    "author": "James Carter",
+    "author_img": "https://i.ibb.co/F3xxqxR/profile.png",
+    "postdata": "August 22, 2024",
+    "reading_time": 10,
+    "hashtag": [
+        "beginners" ,
+        "es6"
+    ]
+  },
+  {
+    "id": "003",
+    "cover": "https://i.ibb.co/hCqj7yw/3.png",
+    "title": "Echoes of Tomorrow",
+    "author": "Ava Martinez",
+    "author_img": "https://i.ibb.co/whc5qMH/boy2.jpg",
+    "postdata": "August 29, 2024",
+    "reading_time": 10,
+    "hashtag": [
+        "beginners" ,
+        "es6"
+    ]
+  },
+  {
+    "id": "004",
+    "cover": "https://i.ibb.co/W0Z7tYB/4.jpg",
+    "title": "Whispers in the Wind",
+    "author": "Liam Bennett",
+    "author_img": "https://i.ibb.co/3CyN64M/boy1.png",
+    "postdata": "August 30, 2024",
+    "reading-time": 10,
+    "hashtag": [
+        "beginners" ,
+        "es6"
+    ]
+  },
+  {
+    "id": "005",
+    "cover": "https://i.ibb.co/W0Z7tYB/4.jpg",
+    "title": "The Lost Kingdom",
+    "author": "Sophia Green",
+    "author_img": "https://i.ibb.co/SV9Dh3M/girl2.jpg",
+    "postdata": "August 25, 2024",
+    "reading_time": 10,
+    "hashtag": [
+        "beginners" ,
+        "es6"
+    ]
+  }
+]
